@@ -1,4 +1,4 @@
-# Required files are in build filder
+# Required files are in build folder
 
 # Project installation:
 - git clone
