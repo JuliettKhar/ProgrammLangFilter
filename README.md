@@ -1,5 +1,5 @@
-# required files are in build filder
+# Required files are in build filder
 
-# project installation:
+# Project installation:
 - git clone
 - npm install
